@@ -28,7 +28,6 @@ adwords:
   path_to_private_key_file: ./service_key.json
   delegated_account: dwalt@google.com
 
-  client_customer_id: 
   #############################################################################
   # ReportDownloader Headers                                                  #
   # Below you may specify boolean values for optional headers that will be    #
