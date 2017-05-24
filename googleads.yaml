@@ -22,7 +22,14 @@ adwords:
   # flow.
   client_id: 1054391917438-vdemtv434itjmbhsc4f8pcsqgbrnh88v.apps.googleusercontent.com
   client_secret: 0Qy8TBOfyLeundYohhxVCjmq
-  refresh_token: 1/jO0HW0GqSgCh7ixXE0ZUV9AytJd4aeVtl0vll7iZtsU
+
+  # TEST REFRESH_TOKEN
+  refresh_token: 1/8JDg_xUYn6REcudrPXbPy3V_-1C6MJEF0Kqk0wm-dMQ
+
+  # PROD REFRESH_TOKEN
+  # refresh_token: 1/jO0HW0GqSgCh7ixXE0ZUV9AytJd4aeVtl0vll7iZtsU
+
+
   # The following values configure the client for the service account flow.
   # service_account_email: mmm-adwords@cloudmmm-external.iam.gserviceaccount.com
   # path_to_private_key_file: ./service_key.json
