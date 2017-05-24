@@ -97,5 +97,5 @@ def main(client):
 
 if __name__ == '__main__':
   # Initialize client object.
-  adwords_client = adwords.AdWordsClient.LoadFromStorage(path="./")
+  adwords_client = adwords.AdWordsClient.LoadFromStorage(path="./googleads.yaml")
   main(adwords_client)
