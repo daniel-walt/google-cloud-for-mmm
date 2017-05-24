@@ -24,9 +24,9 @@ adwords:
   # client_secret: INSERT_CLIENT_SECRET_HERE
   # refresh_token: INSERT_REFRESH_TOKEN_HERE
   # The following values configure the client for the service account flow.
-  service_account_email: mmm-adwords@cloudmmm-external.iam.gserviceaccount.com
-  path_to_private_key_file: ./cloudmmm-external-converted.pem
-  delegated_account: dwalt@google.com
+  # service_account_email: mmm-adwords@cloudmmm-external.iam.gserviceaccount.com
+  path_to_private_key_file: ./service_key.json
+  # delegated_account: dwalt@google.com
 
   #############################################################################
   # ReportDownloader Headers                                                  #
