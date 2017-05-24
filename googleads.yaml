@@ -8,8 +8,8 @@ adwords:
   #############################################################################
   # Optional Fields                                                           #
   #############################################################################
-  # client_customer_id: INSERT_CLIENT_CUSTOMER_ID_HERE
-  # user_agent: INSERT_USER_AGENT_HERE
+  client_customer_id: 4538025815
+  user_agent: GOOGLE_CLOUD_FOR_MMM_DATA_AGGREGATOR
   # partial_failure: True
   # validate_only: True
   #############################################################################
